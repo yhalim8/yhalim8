@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhalim8
 - 👀 I’m interested in computer sience
-- 🌱 I’m currently learning JAVA, XML , HTML
+- 🌱 I’m currently learning JAVA, JEE , Spring , BIGDATA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yhalim8@gmail.com
 
